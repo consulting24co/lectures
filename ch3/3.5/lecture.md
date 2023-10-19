@@ -46,6 +46,8 @@ In the case of Bitcoin ASICS, these computers are only good at mining Bitcoin, s
 
 [Wikipedia: Bitcoin - mining section](https://en.wikipedia.org/wiki/Bitcoin#Mining) - More fun Bitcoin mining facts.
 
+[Crypto Regulation & Licenses](https://www.consulting24.co) - More fun Bitcoin mining facts.
+
 <br />
 
 
